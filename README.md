@@ -1,4 +1,4 @@
-# prostokat
+# zapis git push
 fed@fed-Komputer MINGW64 ~
 $ cd ~/Pictures/
 desktop.ini  pytanie_2/
